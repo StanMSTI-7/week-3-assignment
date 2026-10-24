@@ -1,0 +1,11 @@
+# Ignore previous coursework folders
+week-1/
+week-2/
+week-4/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore PowerPoint files
+*.pptx
